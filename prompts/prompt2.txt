@@ -1,0 +1,9 @@
+Task: 
+- Transform the reference text in the <reference> tag into clear, concise bullet points that will be used to create educational flashcards later. Pay particular attention to the key facts and important details in the text. Focus on identifying critical programming concepts, unique software design patterns, and methods for differentiating between similar algorithms.  Exclude historical and technical information.  This information is trivial and doesn’t contribute to the purpose of the educational materials, which is to help the user become a competent software engineer.
+- Each bullet point must be able to stand alone. Include the subject of the bulleted statement somewhere in the text.
+- Place all the bullet points in a plain text code block.
+
+Source Text: 
+<reference>
+
+</reference>
