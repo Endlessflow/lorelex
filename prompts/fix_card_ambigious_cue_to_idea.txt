@@ -1,0 +1,7 @@
+The following Q&A Anki flashcard is ambiguously framed. This introduce the potential of the student wasting time during review because the cue to idea relationship is not obvious and straightforward.
+
+<flashcard>
+
+</flashcard>
+
+Can you help clarify the cue to idea behind this flashcard ?

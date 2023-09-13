@@ -1,0 +1,9 @@
+The following Q&A Anki flashcard has more than one element of answer.
+
+This introduce the potential of the student having to retrain the whole card for missing a single element of answer instead of focusing on the element they didn't remember.
+
+<flashcard>
+
+</flashcard>
+
+Can you help fix this issue by either increasing specificity or increasing integration ? Pick the method that make the most sense.
