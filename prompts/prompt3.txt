@@ -1,7 +1,7 @@
 Review Text:
-`<text>`
+<text>
 
-`</text>`
+</text>
 
 Task: Your task is to transform this text into question-and-answer flashcards. Emphasize core programming concepts, unique software design patterns, and methods for differentiating similar algorithms. Ensure each card promotes comprehension and recall, and adheres to the formatting and reference criteria specified below.
 
