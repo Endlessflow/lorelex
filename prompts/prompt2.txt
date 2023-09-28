@@ -5,5 +5,5 @@ Task:
 
 Source Text: 
 <reference>
-
+{reference_material}
 </reference>

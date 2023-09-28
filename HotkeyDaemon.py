@@ -2,7 +2,6 @@ import keyboard
 import clipboard
 from DataManager import DataManager
 
-SUMMARIZER = "I think I understand now. Can you tie everything we talked about together into one explanation ?\nHowever,  make sure to optimize for word economy - imagine that each word you said was very expensive and you were a very frugal person."
 
 # Global DataManager instance
 data_manager = DataManager()
