@@ -1,0 +1,5 @@
+Please reorganize the following information in the <extracted> tags into a list of coherent verbose pieces of information. Each piece of information should stand on its own and represent a complete idea or concept.
+
+<extracted>
+{text_to_reorganize}
+</extracted>

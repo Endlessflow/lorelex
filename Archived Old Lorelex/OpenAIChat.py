@@ -53,24 +53,22 @@ class OpenAIChat:
         response = completion.choices[0].message['content']
         
         if verbose:
-            print("Filled Template:", filled_template)
-            print("API Response:", response)
+            print("Filled Template:\n", filled_template)
+            print("--------------------------------------------------------------")
+            print("API Response:\n", response)
+            print("===============================================================")
+            print("===============================================================")
+
         
         return response
+    
 
-exit()
+    
 
+"""
 # EXAMPLE USECASE
 
-STARTING_CONTENT = """42
-Polymorphisme d’héritage
-▪ Le polymorphisme d’héritage
-▪ Lié aux notions d’héritage et d’interface
-▪ Les sous-classes redéfinissent (override) certaines
-méthodes de la superclasse pour implémenter leur
-comportement spécifique
-▪ Une classe implémente toutes les méthodes définies par
-l’interface qu’elle implémente"""
+STARTING_CONTENT = ""
 
 if __name__ == "__main__":
     chat = OpenAIChat()
@@ -84,3 +82,4 @@ if __name__ == "__main__":
 
     # Get another response from the API by filling another template
     flashcards = chat.get_response("prompt3", verbose=True, text_to_transform=extracted_info)
+"""

@@ -1,0 +1,5 @@
+From the extracted information in the provided <extracted>, remove any examples, analogies, or illustrative content that is not presenting empirical facts or foundational knowledge on core principles of object-oriented design, crucial elements of UML notation, and methods for implementing design patterns.
+
+<extracted>
+{text_to_analyze}
+</extracted>

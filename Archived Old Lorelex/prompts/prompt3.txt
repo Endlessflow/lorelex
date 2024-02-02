@@ -1,0 +1,22 @@
+Review Text:
+<text>
+{text_to_transform}
+</text>
+
+Task: Your task is to transform this text into question-and-answer flashcards. Emphasize core programming concepts, unique software design patterns, and methods for differentiating similar algorithms. Ensure each card promotes comprehension and recall, and adheres to the formatting and reference criteria specified below.
+
+Formatting Criteria:
+- Construct a table with three columns: "Question", "Answer".
+- Each row of the "Question" column should contain a clear and directed question focusing on core programming concepts, unique software design patterns, or methods for distinguishing similar algorithms.
+- The "Answer" column should provide a concise and direct response to the question.
+
+Reference Criteria for each Flashcard:
+- Limit the word count of each question to be concise but clear, and the answer should be direct and no longer than a few sentences.
+- Each question and answer must stand alone and be self-explanatory. Include the subject or context somewhere in the text.
+- Aim for a 1:1 cue-to-idea ratio. Avoid lists or binary answers.
+
+Example:
+| Question                                                                          | Answer     |
+|:--------------------------------------------------------------------------------- | ---------- |
+| Which design pattern restricts a class from instantiating more than one object?   | Singleton  |
+| Which sorting algorithm uses a pivot element to divide the array into two halves? | Quick Sort | 

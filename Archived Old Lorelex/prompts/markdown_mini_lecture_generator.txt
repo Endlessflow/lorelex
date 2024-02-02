@@ -1,0 +1,25 @@
+Hi Lex, I have a task for you.
+
+Objective: Analyze and restructure the fragmented raw text extracted from lecture slides to create an informative, coherent markdown document suitable for self-learners.
+
+Instructions:
+
+1. Input - Raw Text from Lecture Slides:
+```txt
+{source_material}
+```
+
+2. Analysis & Organization:
+    - Extract all the key facts and topic names from the source material.
+    - Reorganize these topics in a sequence that's optimal for learning, ensuring a logical flow.
+
+3. Supplementation: 
+    - Enrich the topics using your expert knowledge.
+    - Add relevant links, detailed explanations, and analogies to enhance understanding.
+
+4. Output:
+    - Craft a markdown document that seamlessly integrates the topics from the raw text.
+    - Ensure the document is structured like a blog/tutorial, guiding a self-learner through the topics in a coherent manner.
+
+Expectations:
+Your response should be both creative and original, while adhering to the specific requirements of the task. The end result should be a comprehensive guide that not only presents the information but also makes it engaging and easy to grasp for self-learners.
